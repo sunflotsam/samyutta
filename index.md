@@ -1,3 +1,3 @@
 # Notes on * Samutta Nikaya *
 
-[Ogha Taraṇa](https://sunflotsam.github.io/samyutta/SN001)
+[Ogha Taraṇa](SN001.md)
